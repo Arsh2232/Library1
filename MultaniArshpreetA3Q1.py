@@ -1,12 +1,4 @@
-###
-#MultaniArshpreetA3Q1
-#COMP 1012 SECTION A01
-#INSTRUCTOR [Phil]
-#ASSIGNMENT: A3 Question 1
-#AUTHOR [Arshpreet Multani]
-#VERSION [03-05-2024]
-#PURPOSE: initialize a variable and perform four operations 
-###
+
 
 flag=True #initializing a flag, used to break out of while loop
 
